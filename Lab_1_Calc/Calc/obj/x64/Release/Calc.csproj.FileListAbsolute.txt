@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Calc\Calc\bin\x64\Release\Calc.exe.config
+C:\Users\Asus\Desktop\Calc\Calc\bin\x64\Release\Calc.exe
+C:\Users\Asus\Desktop\Calc\Calc\bin\x64\Release\Calc.pdb
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.Form1.resources
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.Properties.Resources.resources
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.exe
+C:\Users\Asus\Desktop\Calc\Calc\obj\x64\Release\Calc.pdb
